@@ -23,7 +23,7 @@
       "size": "free"
     }
   },
-  "repository": "https://github.com/StarkBotsIndustries/OCRBot",
+  "repository": "https://github.com/Harmish77/OCRBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
